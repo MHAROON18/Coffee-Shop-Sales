@@ -10,3 +10,11 @@ The analysis includes the following steps:
 3. Product Performance: Identifying top-selling products and their contribution to overall sales.
 4. Customer Behavior: Analyzing customer preferences based on product type and sales volume.
 5. Revenue Analysis: Calculating total revenue and identifying revenue-generating products.
+
+# Tools Used
+Microsoft Excel: For data cleaning, analysis, and visualization (charts and pivot tables).
+
+# Future Enhancements
+ -Include a more detailed analysis of customer demographics (if available).
+ -Use machine learning models to predict future sales based on past trends.
+ -Visualize the data using Python or Power BI for more advanced reporting.
